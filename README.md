@@ -166,3 +166,11 @@ erDiagram
 <a href="https://github.com/Stock-finance/Stock/graphs/contributors">
    <img src="https://contributors-img.web.app/image?repo=Stock-finance/Stock" width="800"/>
 </a>
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=Vulthen/myhhub-stock-analysis-suite-toolkit&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent/pub-Vulthen/myhhub-stock-analysis-suite-toolkit)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=Vulthen/myhhub-stock-analysis-suite-toolkit'
+```
+    
